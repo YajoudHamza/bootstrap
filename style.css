@@ -46,6 +46,9 @@ p {
 
   }
 
-.one {
-    display:flex
+
+.luna {
+background:rgb(237, 247, 247);
+color: rgb(19, 70, 53);
+
 }
