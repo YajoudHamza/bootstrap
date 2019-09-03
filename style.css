@@ -1,1 +1,51 @@
+.purple{
+    height: 100px;
+    background-color: rgb(192, 113, 192);
+    border-style:solid;
+    
+}
 
+p {
+    margin-top:100px;
+    text-align: center; 
+    border-style: solid;
+    border-radius: 5px;
+    background-color: rgb(243, 69, 243);
+}
+
+.white{
+    background-color: beige;
+    padding-bottom: 0% !important;
+    padding-top: 0% !important
+}
+article {
+    padding: 0% !important;
+
+}
+
+p {
+    margin-bottom: 0 !important;
+}
+
+
+.mb-0 {
+    margin-top: 0 !important;
+  }
+  
+.mauve { 
+      
+    height: 70px;
+    background-color: rgb(192, 113, 192);
+    border-style:solid;
+  }
+
+  .blanc {
+    height: 70px;
+    background-color: rgb(192, 113, 192);
+    border-style:solid;
+
+  }
+
+.one {
+    display:flex
+}
